@@ -1,0 +1,12 @@
+1. ID
+2. Summary 
+3. Priority
+4. Severity
+5. Environment
+6. Precondition
+7. Steps to Reproduce
+8. Postcondition
+9. Expected result
+10. Actual result
+11. Attachments
+12. Status
