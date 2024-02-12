@@ -12,6 +12,7 @@
 
 - [Официальная документация Git](https://git-scm.com/doc)
 - [Начало работы с Git: подробный гайд для новичков](https://javarush.com/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov)
+- [githowto.com](https://githowto.com/ru)
 - [GIT - Полный Курс Git и GitHub Для Начинающих [4 ЧАСА]](https://www.youtube.com/watch?app=desktop&v=O00FTZDxD0o&feature=youtu.be)
 - [Git и GitHub: что это такое и в чём разница](https://tproger.ru/translations/difference-between-git-and-github/)
 - [5 шпаргалок по Git: от основ до работы с GitHub](https://tproger.ru/articles/5-shpargalok-po-git-ot-osnov-do-raboty-s-github/)
