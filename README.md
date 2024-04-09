@@ -20,6 +20,8 @@
 - [Шпаргалка по консольным командам Git](https://github.com/cyberspacedk/Git-commands)
 - [Git. Коротко о главном](https://habr.com/ru/post/588801/)
 - ![[instrukciya_po_ispolzovaniyu_git_dlya_nachinayushchih.pdf]]
+- [Современные команды и фичи Git, которыми стоит пользоваться](https://habr.com/ru/articles/799413/)
+- [Команды Git: reset, checkout и revert](https://qarocks.ru/resetting-checking-out-reverting/)
 
 ## GitBash
 
